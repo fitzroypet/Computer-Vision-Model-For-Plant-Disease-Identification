@@ -12,5 +12,6 @@ Here is an outline of the file here and how you can use them.
 5. Plant_disease_model_testing(No_BGImages).ipynb - testing algorithm for Model 1 & 2 (no background tomato leaf test images)
 6. README.md - Here already!
 7. Remove_Image_Background.ipynb - Simple algorithm to automatically remove backgrounds from a collection of image leaves.
+8. Viva presentation.pdf - A slideshow presentation in pdf, displaying the results and concusion of this work.
 
 
