@@ -1,8 +1,8 @@
-INTRODUCTION
+# INTRODUCTION
 
 Welcome to the repository for my master's project in Data Science.
 
-Project Title: Automated Plant Disease Identification for Mobile and Edge Devices Using Deep Learning
+## Project Title: Automated Plant Disease Identification for Mobile and Edge Devices Using Deep Learning
 
 The primary objective of this project is to revolutionize and enhance the field of agriculture by utilizing deep learning techniques and leveraging the capabilities of mobile and edge devices.
 
@@ -14,8 +14,17 @@ In this repository, you will find various files related to the project, includin
 
 Thank you for your interest, and feel free to explore the contents of this repository!
 
+## OVERVIEW:
 
-CONTENT OUTLINE
+This project presents an AI-powered system for automated detection of tomato leaf diseases, optimised for deployment on mobile and edge devices. 
+
+Using a MobileNet convolutional neural network and TensorFlow Lite, the model was trained on over 16,000 images, both with and without background removal, to evaluate the impact of pre-processing on classification performance. 
+
+Results showed that removing image backgrounds improved overall accuracy and model robustness. 
+
+The system achieved an accuracy of over 90% and demonstrated efficiency suitable for real-time, low-resource agricultural environments. This work contributes to early disease diagnosis in crops and forms the foundation for AgroVerse, a scalable plant health platform.
+
+## CONTENT OUTLINE
 
 1. Data Science Master's Thesis Document: PDF of the full project with literature review, methodology, discussions and conclusion.
 2. Model1_disease_detection_using_mobilenet_tl.ipynb: The algorithm for re-processing, training and validation of Model 1
